@@ -1,0 +1,16 @@
+Todo: Plan the overall architecture of the application, including the backend and database design.
+Todo: Set up a GitHub repository for the project and initialize it with appropriate files, including a README file with project description and instructions.
+Todo: Create a Flutter project for the frontend development.
+Todo: Implement the "Create Profile" functionality by creating a form with fields for the required user information. Develop an API endpoint to receive the data from the form and store it in the database.
+Todo: Implement the "Edit Profile" functionality by creating a form with editable fields for the user information, except for the name, student ID, and email. Develop an API endpoint to receive the edited data and update the database accordingly.
+Todo: Implement the "View Profile" functionality by creating a page to display the profile information of a given user. Develop an API endpoint to retrieve the user's data from the database.
+Todo: Implement the "Create Post" functionality by creating a form with fields for the user's email and the text they want to share. Develop an API endpoint to receive the data from the form and store it in the database.
+Todo: Implement the "Feed" functionality by creating a page to display all the posts made by users in descending order of time. Ensure that the page updates in real-time using appropriate libraries or technologies. Develop an API endpoint to retrieve the posts from the database.
+Todo: Implement the "Email Notification" functionality by integrating an email service to send notifications to all users whenever a new post is made. Develop an API endpoint to trigger the email service.
+Todo: Test the application thoroughly, ensuring that all functionalities work as expected and that the UI is intuitive and user-friendly.
+Todo: Create a PDF document containing the GitHub repository links, a system description, testing instructions, and screenshots of all implemented functionalities.
+Todo: Submit the PDF document before the deadline, and be prepared to demonstrate the application during the final presentation.
+
+
+Beautify code
+User data error
