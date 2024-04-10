@@ -9,7 +9,6 @@ Todo: Implement the "Feed" functionality by creating a page to display all the p
 Todo: Implement the "Email Notification" functionality by integrating an email service to send notifications to all users whenever a new post is made. Develop an API endpoint to trigger the email service.
 Todo: Test the application thoroughly, ensuring that all functionalities work as expected and that the UI is intuitive and user-friendly.
 Todo: Create a PDF document containing the GitHub repository links, a system description, testing instructions, and screenshots of all implemented functionalities.
-Todo: Submit the PDF document before the deadline, and be prepared to demonstrate the application during the final presentation.
 
 
 Beautify code
